@@ -1,2 +1,4 @@
-create table planeten  (v VARCHAR(4), c CHAR(4));
-INSERT INTO names VALUES ('naam');
+use  `sterrenstelsel`; 
+insert into planeten values ('Zon'), ('Mercurius'), ('Venus'), ('Aarde'), ('Mars');
+show tables;
+describe planten
